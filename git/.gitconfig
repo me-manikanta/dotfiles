@@ -2,9 +2,6 @@
 [user]
 	name = Manikanta Inugurthi 
 	email = manikantajreinstein97@gmail.com
-# Please adapt and uncomment the following lines:
-#	name = Manikanta Inugurthi
-#	email = mani@Manikantas-MacBook-Pro.local
 
 [push]
 	default = simple
