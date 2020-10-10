@@ -147,10 +147,10 @@ vnoremap <S-Tab> <
 " cnoremap <Up> <Nop>
 
 " Remove newbie crutches in Insert Mode
-inoremap <Down> <Nop>
-inoremap <Left> <Nop>
-inoremap <Right> <Nop>
-inoremap <Up> <Nop>
+" inoremap <Down> <Nop>
+" inoremap <Left> <Nop>
+" inoremap <Right> <Nop>
+" inoremap <Up> <Nop>
 
 " Remove newbie crutches in Normal Mode
 nnoremap <Down> <Nop>
