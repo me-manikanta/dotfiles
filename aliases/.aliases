@@ -72,6 +72,9 @@ fi
 
 ###########################################################################################################################
 
+#Find Related
+#Pass '-delete' to delete empty directories
+alias emptydir='find . -type d -empty'
 
 function snd() {
     mkdir -p /tmp/passage
